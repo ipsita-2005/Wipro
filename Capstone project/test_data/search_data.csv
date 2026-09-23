@@ -1,0 +1,5 @@
+test_case_id,search_term,expected_status,expected_result
+TC_S_01,MacBook,found,MacBook
+TC_S_02,iPhone,found,iPhone
+TC_S_03,Samsung,found,Samsung
+TC_S_04,NonExistingLaptop999XYZ,not_found,There is no product that matches the search criteria.

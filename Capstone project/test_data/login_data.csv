@@ -1,0 +1,5 @@
+test_case_id,email,password,expected_status,expected_message
+TC_L_01,selenium_tester_1789743592@example.com,Password123!,success,My Account
+TC_L_02,invalid_email_999@testexample.com,WrongPass123,failure,Warning: No match for E-Mail Address and/or Password.
+TC_L_03,selenium_tester_1789743592@example.com,WrongPasswordXYZ,failure,Warning: No match for E-Mail Address and/or Password.
+TC_L_04,,,failure,Warning: No match for E-Mail Address and/or Password.
