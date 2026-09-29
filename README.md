@@ -7,6 +7,7 @@
 **Name:** Ipsita Datta
 **Course:** B.Tech in Computer Science and Engineering (AI & ML)
 **Institution:** Institute of Engineering & Management, Kolkata
+**Enrollment number:** 12023002028054
 
 This project is developed as part of the **Wipro Capstone Assignment 2**. The objective of this assignment is to design and implement a **robust Selenium Python automation framework** for an e-commerce application.
 
